@@ -1,0 +1,4 @@
+c:\users\karina.rsouza1\documents\visual studio 2015\Projects\projetostar\projetostar\bin\Debug\projetostar.exe.config
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\projetostar\obj\Debug\projetostar.csprojResolveAssemblyReference.cache
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\projetostar\obj\Debug\projetostar.Properties.Resources.resources
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\projetostar\obj\Debug\projetostar.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.Properties.Resources.resources
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.csproj.GenerateResource.Cache
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\karina.rsouza1\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.csprojResolveAssemblyReference.cache
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.csprojResolveAssemblyReference.cache
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.Properties.Resources.resources
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.csproj.GenerateResource.Cache
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\AcessoBanco\obj\Debug\AcessoBanco.pdb

@@ -1,0 +1,10 @@
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\bin\Debug\TranferenciaDados.dll.config
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\bin\Debug\TranferenciaDados.dll
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\bin\Debug\TranferenciaDados.pdb
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\obj\Debug\TranferenciaDados.csprojResolveAssemblyReference.cache
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\obj\Debug\TranferenciaDados.Properties.Resources.resources
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\obj\Debug\TranferenciaDados.csproj.GenerateResource.Cache
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\obj\Debug\TranferenciaDados.dll
+C:\Users\ligia.gosilva\Documents\Visual Studio 2015\Projects\projetostar\TranferenciaDados\obj\Debug\TranferenciaDados.pdb
